@@ -1,6 +1,6 @@
 # Project 1 Plot 2
 # Set working directory to access data from subdirectory data/
-
+ 
 # Use system commands on Mac to preprocess file so that only a subset with the
 # required dates is read by R. The following adapts method posted to the 
 # Discussion Forums by Alexander Vikulin
